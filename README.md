@@ -1,1 +1,1 @@
-# CreateJavaJarWithMaven
+# CreateJarWithMaven
